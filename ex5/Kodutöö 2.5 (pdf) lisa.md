@@ -17,6 +17,7 @@ Kui element, mida hakatakse võrdlema sorteeritud osaga, on võrdne eelmise elem
 Loend [2, 3, 5, 5, 2] ([2, 3, 5] - sorteeritud [5, 2] - sorteerimata). Võrdleme elementi 5 eelmise elemendiga (5). Kuna 5 ja 5 on võrdsed, ei pea midagi muutma.
 
 
+
 # Adaptiivsed algoritmid:
 
 Kui andmed on juba sorteeritud, siis algoritm ei muuda elementide järjestus. 
@@ -39,4 +40,3 @@ Asendab elemente ainult siis, kui üks elementidest on suurem kui teine. Kui ele
 ### Näide:
 
 Loend [2, 5, 9, 3, 6] ([2, 5] - sorteeritud [9, 3, 6] - sorteerimata). Võrdleme elementi 9 eelmise elemendiga (5). Kuna 9 on suurem kui 5, ei pea midagi muutma.
-
